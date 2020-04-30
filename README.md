@@ -1,2 +1,2 @@
 # DemoMvc
-A practice Spring MVC with XML based configurations
+A practice Spring MVC with Java based configurations
